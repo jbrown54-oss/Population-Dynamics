@@ -1,0 +1,18 @@
+# Course materials (copyrighted; never commit)
+*.pdf
+
+# Claude Code local settings
+/.claude/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# macOS
+.DS_Store
