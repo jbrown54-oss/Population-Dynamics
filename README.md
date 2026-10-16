@@ -6,7 +6,7 @@ Models of population dynamics built for BIOL 460.
 
 | Notebook | Description |
 | --- | --- |
-| [`notebooks/shark-tuna-model.ipynb`](notebooks/shark-tuna-model.ipynb) | Predator–prey (Lotka–Volterra) model of sharks and tuna, simulated with SciPy's `solve_ivp`, with perturbations (sharks removed, tuna fished) shown over time and on the phase plane, plus year-round fishing built into the ODE. |
+| [`notebooks/shark-tuna-model.ipynb`](notebooks/shark-tuna-model.ipynb) | Predator–prey (Lotka–Volterra) model of sharks and tuna, simulated with SciPy's `solve_ivp`, with perturbations (sharks removed, tuna fished, one population wiped out) shown over time and on the phase plane, plus year-round fishing built into the ODE. |
 
 ## Running locally
 
