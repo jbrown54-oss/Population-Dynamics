@@ -10,6 +10,8 @@ Models of population dynamics built for BIOL 460.
 
 ## Running locally
 
+Requires Python 3.9 or newer.
+
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
