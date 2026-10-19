@@ -2,4 +2,4 @@
 numpy>=1.26
 matplotlib>=3.9
 scipy>=1.13
-jupyter
+jupyter  # to open and run the notebook
