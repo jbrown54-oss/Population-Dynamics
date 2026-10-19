@@ -16,7 +16,7 @@ $$S' = m\beta S T - dS$$
 
 $$T' = bT - \beta S T$$
 
-`S` is sharks, `T` is tuna, `b` is the tuna birth rate, `d` is the shark death rate, `beta` is the chance a meeting kills the tuna, and `m` is the sharks produced per tuna eaten.
+`S` is sharks, `T` is tuna, `b` is the tuna birth rate, `d` is the shark death rate, `beta` is the chance a meeting kills the tuna, and `m` is the sharks produced per tuna eaten. The notebook sets all four parameters to 1, so the equilibrium sits at $(T, S) = (1, 1)$.
 
 ## Running locally
 
