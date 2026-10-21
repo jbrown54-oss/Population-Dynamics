@@ -10,6 +10,8 @@ Models of population dynamics built for BIOL 460.
 
 The notebook walks through: tuna alone, sharks alone, both together, the oscillation, perturbations, the phase plane and flow lines, year-round fishing, complete decline, and the math behind it.
 
+The notebook is saved with its outputs, so the plots show on GitHub without running anything.
+
 ## The model
 
 $$S' = m\beta S T - dS$$
