@@ -30,3 +30,5 @@ source .venv/bin/activate
 pip install -r requirements.txt
 jupyter notebook notebooks/shark-tuna-model.ipynb
 ```
+
+Run `deactivate` to leave the virtual environment when done.
