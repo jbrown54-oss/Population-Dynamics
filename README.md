@@ -31,4 +31,6 @@ pip install -r requirements.txt
 jupyter notebook notebooks/shark-tuna-model.ipynb
 ```
 
+Use **Kernel → Restart Kernel and Run All Cells** to rerun every cell from the top.
+
 Run `deactivate` to leave the virtual environment when done.
